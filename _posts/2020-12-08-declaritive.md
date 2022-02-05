@@ -20,8 +20,5 @@ title: Declarative
     the heater, and how much power it needs on the fans in order to apply your order. Hence, you are
     telling the system **what** you want and then the system decides on **how** to make that happen.
 
-## How does that reflect in the k8s world?
-
-- 
 
 
