@@ -53,10 +53,10 @@ Here is a list of all the devices that could be used for the smart home service 
 
 ## Next Steps:
 
+- Create a basic module and pricing
 - Contact Potential Contractors to get requirements, or contracts
 - Decide which devices are part of the main offering and which devices are extra
 - Find suppliers for the main devices, and options for extra devices
 - Create a website with services and portfolio
 - Create a blog to showcase expertise and add some articles
 - Start thinking about other marketing streams
-
