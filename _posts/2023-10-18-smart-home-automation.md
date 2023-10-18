@@ -3,7 +3,7 @@ layout: post
 title: Building a Home automation kit
 ---
 
-## Device to consider:
+## Devices to consider:
 
 - Doorbell with (or without Camera)
 - Door lock with Bluetooth, fingerprint, or passcode
@@ -20,14 +20,14 @@ title: Building a Home automation kit
   - Control Hub
 - Fire and CO Alarm
 - Plugs
-- light bulbs
-- speakers
-- thermostat
-- humidity and temperature sensors
-- irrigation
-- curtains
-- flood and water detectors
-- able to integrate with smart appliances
+- Light bulbs
+- Speakers
+- Thermostat
+- Humidity and temperature sensors
+- Irrigation
+- Curtains
+- Flood and water detectors
+- Able to integrate with smart appliances
 
 ## System:
 
@@ -42,7 +42,7 @@ title: Building a Home automation kit
 
 ## Caveats:
 
-- need to make sure devices are compatible with either zigbee or matter
+- Need to make sure devices are compatible with either zigbee or matter
 - Sales Options:
   - implement and pay full price -> no support
   - implement and pay to own the equipment, monthly fee for support
