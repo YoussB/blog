@@ -6,10 +6,10 @@
 name: CloudChowder
 
 # Short bio or description (displayed in the header)
-description: Discover the thick and chunky cloud computing
+description: It is always cloudy with a chance of soup!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/youssb/blog/master/images/avatar.jpg
+avatar: https://raw.githubusercontent.com/youssb/blog/master/images/avatar.png
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/youssb/blog/master/images/avatar.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: byoussef199@gmail.com
+  email: bishoy@cloudchowder.com
   facebook:
   flickr:
   github: youssb
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: G-FXHF10ZJS1
+google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
