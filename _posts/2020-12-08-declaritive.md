@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Declarative
+categories: [Kubernetes, Infrastructure, Technical]
 ---
 
 ## Declarative Vs. Imperative:

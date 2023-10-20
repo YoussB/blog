@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What's in the name?
+categories: [Thoughts]
 ---
 
 **Here are some of the facts why I chose the name CloudChowder, maybe it will help you understand how I think and either interest you or repel you from my blog.**

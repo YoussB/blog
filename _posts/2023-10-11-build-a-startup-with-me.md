@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Build a Startup with me!
+categories: [Thoughts]
 ---
 
 ## Let's build a startup together!

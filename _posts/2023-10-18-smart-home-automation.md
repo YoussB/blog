@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Building a Home automation kit
+categories: [Smart Home, Technical]
 ---
 
 Here is a list of all the devices that could be used for the smart home service offering. I have also stated how the system should be architected.
