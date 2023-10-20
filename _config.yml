@@ -5,11 +5,14 @@
 # Name of your site (displayed in the header)
 name: CloudChowder
 
+# Name of the author
+author: Bishoy Youssef
+
 # Short bio or description (displayed in the header)
 description: It is always cloudy with a chance of soup!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/youssb/blog/master/images/avatar.png
+avatar: /images/avatar.png
 
 #
 # Flags below are optional
@@ -25,23 +28,28 @@ footer-links:
   instagram:
   linkedin: bishoygyoussef
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: rss
   twitter: youssbeesh
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
-
+  playconsole:
+  mastodon: # <your-mastodon-instance>/@<your-user-name> eg. fosstodon.org/@username
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+#google_analytics: G-FXHF10ZJS1
 
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# For newer "GA4" analytics, use the following instead of the "UA" entry above
+google_analytics_ga4: G-FXHF10ZJS1
+
+# Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: https://cloudchowder.com/
+url: http://cloudchowder.com/blog
+enforce_ssl: https://cloudchowder.com/blog
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -73,9 +81,16 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+include: ['_pages']
+
+paginate: 6
+paginate_path: /page:num/
 
 # Exclude these files from your production _site
 exclude:
@@ -84,3 +99,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+

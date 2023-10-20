@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lobbying with co-founders
+title: lobbying with co-founders
 ---
 
 Recently I have come across the idea of lobbying/connecting with some startup founders in order to either work with them, or become a partner.

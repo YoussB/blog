@@ -23,9 +23,9 @@ I am tasked with creating a monitoring platform for an existing SaaS application
 
 - This kinda feels like a matrix of sorts, with monitoring aspects as rows, and resources to be monitored as columns.
 
-| Monitoring Aspect \ Resource          | MongoDb Atlas | Azure Resources |
-| :------------------------------------ | :-----------: | :-------------: |
-| what are even the monitoring aspects? |        x      |        x        |
+- | Monitoring Aspect \ Resource          | MongoDb Atlas | Azure Resources |
+  | :------------------------------------ | :-----------: | :-------------: |
+  | what are even the monitoring aspects? |        x      |        x        |
 
 - As agreed with the customer, The most important task is to get the MongoDB atlas analytics into Azure. This will be my top priority.
 - Next, I will explore how to get monitoring for the rest of the applications that are already stored in Azure into a centralised location.
