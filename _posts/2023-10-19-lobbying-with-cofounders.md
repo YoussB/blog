@@ -1,6 +1,7 @@
 ---
 layout: post
 title: lobbying with co-founders
+published: false
 categories: [Thoughts]
 ---
 
