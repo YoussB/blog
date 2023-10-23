@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Declarative
+title: Declarative Vs. Imperative:
 categories: [Kubernetes, Infrastructure, Technical]
 ---
-
-## Declarative Vs. Imperative:
 
 - I came across the term declarative Api when trying to understand Kubernetes CRDs, and controllers
 - Declarative focuses on the what, while imperative focuses on the how
