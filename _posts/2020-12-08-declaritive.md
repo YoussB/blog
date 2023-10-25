@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Declarative Vs. Imperative:
+title: Declarative Vs. Imperative
 categories: [Kubernetes, Infrastructure, Technical]
 ---
 
