@@ -2,7 +2,7 @@
 layout: post
 title: Monitoring is pain!
 categories: [Monitoring, Technical]
-published: false
+published: true
 ---
 
 I am tasked with creating a monitoring platform for an existing SaaS application that is deployed on Azure. I can't help but say that monitoring is a pain somewhere. The amount of available options for monitoring out there is humbling! Here, I try to document my journey, maybe is will be helpful to someone.
